@@ -55,7 +55,7 @@ Running a Performance Check
 api-tester-pro benchmark --url https://example.com/api --requests 1000
 
 📝 Contribution
-We welcome contributions! To add new tools or improve existing features, please open a pull request.
+We welcome contributions! To add new tools or improve existing features, please contact: matan@nextimpact.co.il 
 
 📜 License
 This project is licensed under the MIT License. See LICENSE for details.
